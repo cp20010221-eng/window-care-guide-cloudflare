@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://window-care-guide-cloudflare.pages.dev/sitemap.xml
